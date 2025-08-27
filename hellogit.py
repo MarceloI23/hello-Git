@@ -1,2 +1,2 @@
 print ("Hello Git")
-print ("Inicio de curso")
+print ("Cambios Git")
